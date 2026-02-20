@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
-  "name": "Status Overview Panel",
-  "id": "serrrios-statusoverview-panel",
+  "name": "Status Overview Panel S7",
+  "id": "serrrios-statusoverview-panel-s7",
   "info": {
     "keywords": ["panel"],
-    "description": "Status Overview Panel for Grafana",
+    "description": "Status Overview Panel for Grafana (S7)",
     "author": {
-      "name": "Krasnov Sergei",
+      "name": "Lisitsky Konstantin",
       "url": "https://github.com/serrrios"
     },
     "logos": {
@@ -16,7 +16,7 @@
     },
     "links": [{
       "name": "Project site",
-      "url": "https://github.com/serrrios/Status-Overview-Panel"
+      "url": "https://github.com/shanidesu/Status-Overview-Panel-S7"
     }],
     "screenshots": [{
       "name": "Preview",
