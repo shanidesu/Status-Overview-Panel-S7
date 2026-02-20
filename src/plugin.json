@@ -5,10 +5,9 @@
   "id": "serrrios-statusoverview-panel-s7",
   "info": {
     "keywords": ["panel"],
-    "description": "Status Overview Panel for Grafana (S7)",
+    "description": "Status Overview Panel for Grafana (S7 version)",
     "author": {
-      "name": "Lisitsky Konstantin",
-      "url": "https://github.com/serrrios"
+      "name": "Lisitsky Konstantin"
     },
     "logos": {
       "small": "img/logo.svg",
